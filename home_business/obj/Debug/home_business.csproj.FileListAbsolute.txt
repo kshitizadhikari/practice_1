@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\home_business\home_business\bin\Debug\home_business.exe.config
+C:\Users\user\source\repos\home_business\home_business\bin\Debug\home_business.exe
+C:\Users\user\source\repos\home_business\home_business\bin\Debug\home_business.pdb
+C:\Users\user\source\repos\home_business\home_business\obj\Debug\home_business.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\home_business\home_business\obj\Debug\home_business.Form1.resources
+C:\Users\user\source\repos\home_business\home_business\obj\Debug\home_business.Properties.Resources.resources
+C:\Users\user\source\repos\home_business\home_business\obj\Debug\home_business.csproj.GenerateResource.cache
+C:\Users\user\source\repos\home_business\home_business\obj\Debug\home_business.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\home_business\home_business\obj\Debug\home_business.exe
+C:\Users\user\source\repos\home_business\home_business\obj\Debug\home_business.pdb
